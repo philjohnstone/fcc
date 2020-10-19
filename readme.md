@@ -32,10 +32,18 @@
 
 | Challenge | Link |
 | --------- | ---- |
-| [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice) | []() |
-| [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice) | []() |
-| [URL Shortner Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice) | []() |
-| [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker) | []() |
-| [File Metadata Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice) | []() |
+| [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice) | [Source on GitHub](timestamp-microservice) |
+| [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice) | [Source on GitHub](request-header-parser-microservice) |
+| [URL Shortner Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice) | [Source on GitHub](url-shortner-microservice) |
+| [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker) | [Source on GitHub](exercise-tracker) |
+| [File Metadata Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice) | [Source on GitHub](file-metadata-microservice) |
 
-[FreeCodeCamp Personal Portfolio](https://codepen.io/philjohnstone/full/vYOWOGO)
+## Quality Assurance Certificate
+
+| Challenge | Link |
+| --------- | ---- |
+| (Metric Imperial Converter)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter] | (Source on GitHub)[metric-imperial-converter] |
+| (Issue Tracker)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker] | (Source on GitHub)[issue-tracker] |
+| (Personal Library)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library] | (Source on GitHub)[project-library] |
+| (Sudoku Solver)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver] | (Source on GitHub)[sudoko-solver] |
+| (American British Translator)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator] | (Source on GitHub)[american-british-translator] |
