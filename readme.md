@@ -16,5 +16,26 @@
 | [Build a markdown previewer](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer) | [Solution on Codepen](https://codepen.io/philjohnstone/pen/NWGBGLM) |
 | [Build a drum machine](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-drum-machine) | [Solution on Codepen](https://codepen.io/philjohnstone/pen/GRpYWZr) |
 | [Build a javascript calculator](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator) | [Solution on Codepen](https://codepen.io/philjohnstone/full/mdezpYq) |
+| [Build a 25 + 5 clock](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-25--5-clock) | [Solution on Codepen](https://codepen.io/philjohnstone/full/OJydGgP) |
+
+## Data Visualisation Certificate
+
+| Challenge | Link |
+| --------- | ---- |
+| [Visualise data with a bar chart](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart) | [Solution on Codepen](https://codepen.io/philjohnstone/full/JjYQzzo) |
+| [Visualise data with a scatterplot graph](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) | [Solution on Codepen](https://codepen.io/philjohnstone/full/bGEdpYM) |
+| [Visualise data with a heat map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map) | [Solution on Codepen](https://codepen.io/philjohnstone/full/rNxVjqm) |
+| [Visualise data with a choropleth map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map) | [Solution on Codepen](https://codepen.io/philjohnstone/full/qBbNqmy) |
+| [Visualise data with a treemap diagram](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram) | [Solution on Codepen](https://codepen.io/philjohnstone/full/GRoWWdj) |
+
+## APIs and Microservices Certificate
+
+| Challenge | Link |
+| --------- | ---- |
+| [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice) | []() |
+| [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice) | []() |
+| [URL Shortner Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice) | []() |
+| [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker) | []() |
+| [File Metadata Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice) | []() |
 
 [FreeCodeCamp Personal Portfolio](https://codepen.io/philjohnstone/full/vYOWOGO)
