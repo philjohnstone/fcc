@@ -42,8 +42,8 @@
 
 | Challenge | Link |
 | --------- | ---- |
-| (Metric Imperial Converter)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter] | (Source on GitHub)[metric-imperial-converter] |
-| (Issue Tracker)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker] | (Source on GitHub)[issue-tracker] |
-| (Personal Library)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library] | (Source on GitHub)[project-library] |
-| (Sudoku Solver)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver] | (Source on GitHub)[sudoko-solver] |
-| (American British Translator)[https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator] | (Source on GitHub)[american-british-translator] |
+| [Metric Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter) | [Source on GitHub](metric-imperial-converter) |
+| [Issue Tracker](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker) | [Source on GitHub](issue-tracker) |
+| [Personal Library](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library) | [Source on GitHub](project-library) |
+| [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver) | [Source on GitHub](sudoko-solver) |
+| [American British Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator) | [Source on GitHub](american-british-translator) |
